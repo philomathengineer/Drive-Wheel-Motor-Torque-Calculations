@@ -5,4 +5,5 @@ The formulas and calculations outlined follow the 2011 paper submitted by the [M
 
 The formulas are written in Python using Jupyter Notebook.
 
-**Note:** Calculations use Force in Newtons rather than Mass in Pounds as given in the paper.
+Calculations use Force in Newtons rather than Mass in Pounds as given in the paper.
+All values are in SI units.
